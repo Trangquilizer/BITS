@@ -67,7 +67,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Game1",
-    "path": "Game1.yyp",
+    "name": "Lost Tail",
+    "path": "Lost Tail.yyp",
   },
 }

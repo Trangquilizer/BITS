@@ -1,7 +1,7 @@
 {
   "resourceType": "GMProject",
   "resourceVersion": "1.6",
-  "name": "Game1",
+  "name": "Lost Tail",
   "resources": [
     {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},"order":4,},
     {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},"order":4,},
